@@ -1,0 +1,28 @@
+.up{
+    height: 38px;
+    width: 89px;
+ }
+ .delete{
+    height: 38px;
+    width: 105px;
+    margin-left: 98px;
+ }
+ .emailCol{
+    width: 100px !important;
+ }
+ .sub{
+    height: 32px !important;
+     margin-left: -15px !important;
+ } .userCol{
+    width: 157px !important;
+ }
+ tr{
+    
+   height: 55px !important;
+
+ }
+ .btnDA {
+   height: 39px;
+   width: 100px;
+   margin-left: -169px;
+}
